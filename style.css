@@ -1,0 +1,16 @@
+body {
+  padding: 20px;
+}
+.form {
+  margin-bottom: 20px;
+}
+.card {
+  text-align: left;
+  border: 1px solid #2c3e50;
+  border-radius: 4px;
+  padding-left: 8px;
+  padding-right: 8px;
+}
+.note {
+  padding: 5px;
+}
